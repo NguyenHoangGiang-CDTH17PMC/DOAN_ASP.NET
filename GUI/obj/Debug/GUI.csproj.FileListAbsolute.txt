@@ -1,0 +1,6 @@
+D:\ASP.Net\WEBBANXE\GUI\bin\GUI.dll.config
+D:\ASP.Net\WEBBANXE\GUI\bin\GUI.dll
+D:\ASP.Net\WEBBANXE\GUI\bin\GUI.pdb
+D:\ASP.Net\WEBBANXE\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\ASP.Net\WEBBANXE\GUI\obj\Debug\GUI.dll
+D:\ASP.Net\WEBBANXE\GUI\obj\Debug\GUI.pdb
