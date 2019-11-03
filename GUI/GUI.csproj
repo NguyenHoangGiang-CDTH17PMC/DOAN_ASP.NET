@@ -57,6 +57,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Elements.aspx" />
+    <Content Include="ManageProduct.aspx" />
     <Content Include="PublicPage.Master" />
     <Content Include="css\.DS_Store" />
     <Content Include="css\bootstrap.map" />
@@ -77,6 +79,7 @@
     <Content Include="img\.DS_Store" />
     <Content Include="img\organic-food\.DS_Store" />
     <Content Include="js\.DS_Store" />
+    <Content Include="Register.aspx" />
     <Content Include="scss\.DS_Store" />
     <Content Include="scss\main.scss" />
     <Content Include="scss\theme\_banner.scss" />
@@ -330,6 +333,7 @@
     <Content Include="Productdetail.aspx" />
     <Content Include="Shopcategory.aspx" />
     <Content Include="Shoppingcart.aspx" />
+    <Content Include="TracKing.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -361,6 +365,13 @@
     <Compile Include="Contect.aspx.designer.cs">
       <DependentUpon>Contect.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Elements.aspx.cs">
+      <DependentUpon>Elements.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Elements.aspx.designer.cs">
+      <DependentUpon>Elements.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -374,6 +385,13 @@
     </Compile>
     <Compile Include="Login.aspx.designer.cs">
       <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ManageProduct.aspx.cs">
+      <DependentUpon>ManageProduct.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManageProduct.aspx.designer.cs">
+      <DependentUpon>ManageProduct.aspx</DependentUpon>
     </Compile>
     <Compile Include="Productcheckout.aspx.cs">
       <DependentUpon>Productcheckout.aspx</DependentUpon>
@@ -392,9 +410,17 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PublicPage.Master.cs">
       <DependentUpon>PublicPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="PublicPage.Master.designer.cs">
       <DependentUpon>PublicPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
     </Compile>
     <Compile Include="Shopcategory.aspx.cs">
       <DependentUpon>Shopcategory.aspx</DependentUpon>
@@ -410,11 +436,22 @@
     <Compile Include="Shoppingcart.aspx.designer.cs">
       <DependentUpon>Shoppingcart.aspx</DependentUpon>
     </Compile>
+    <Compile Include="TracKing.aspx.cs">
+      <DependentUpon>TracKing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TracKing.aspx.designer.cs">
+      <DependentUpon>TracKing.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BUS\BUS.csproj">
       <Project>{acb816ce-177b-4ba5-9e27-9944b6407dd1}</Project>
       <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{d46bd0cd-00ed-4112-9f09-b53f59f14b0e}</Project>
+      <Name>DTO</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

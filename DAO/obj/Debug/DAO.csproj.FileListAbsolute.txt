@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\DOAN_ASP.NET\DOAN_ASP.NET\DAO\bin\Debug\DAO.dll
+C:\Users\DELL\Desktop\DOAN_ASP.NET\DOAN_ASP.NET\DAO\bin\Debug\DAO.pdb
+C:\Users\DELL\Desktop\DOAN_ASP.NET\DOAN_ASP.NET\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\DOAN_ASP.NET\DOAN_ASP.NET\DAO\obj\Debug\DAO.dll
+C:\Users\DELL\Desktop\DOAN_ASP.NET\DOAN_ASP.NET\DAO\obj\Debug\DAO.pdb
+C:\Users\DELL\Desktop\DOAN_ASP.NET\DOAN_ASP.NET\DAO\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\DOAN_ASP.NET\DOAN_ASP.NET\DAO\bin\Debug\DTO.pdb
