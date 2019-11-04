@@ -3,3 +3,7 @@ C:\Users\DELL\Desktop\DOAN_ASP.NET\DOAN_ASP.NET\DTO\bin\Debug\DTO.pdb
 C:\Users\DELL\Desktop\DOAN_ASP.NET\DOAN_ASP.NET\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
 C:\Users\DELL\Desktop\DOAN_ASP.NET\DOAN_ASP.NET\DTO\obj\Debug\DTO.dll
 C:\Users\DELL\Desktop\DOAN_ASP.NET\DOAN_ASP.NET\DTO\obj\Debug\DTO.pdb
+C:\Users\yukih\OneDrive\Desktop\DoAnAndroid\DOAN_ASP.NET\DTO\bin\Debug\DTO.dll
+C:\Users\yukih\OneDrive\Desktop\DoAnAndroid\DOAN_ASP.NET\DTO\bin\Debug\DTO.pdb
+C:\Users\yukih\OneDrive\Desktop\DoAnAndroid\DOAN_ASP.NET\DTO\obj\Debug\DTO.dll
+C:\Users\yukih\OneDrive\Desktop\DoAnAndroid\DOAN_ASP.NET\DTO\obj\Debug\DTO.pdb
